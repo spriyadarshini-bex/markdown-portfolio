@@ -1,1 +1,1 @@
-You can check out my repository through following link [github](https://github.com/spriyadarshini-bex/markdown-portfolio/edit/add-images-links/_includes/02-image.md?pr=%2Fspriyadarshini-bex%2Fmarkdown-portfolio%2Fpull%2F3)
+You can check out my repository through following link [Github](https://github.com/spriyadarshini-bex)
