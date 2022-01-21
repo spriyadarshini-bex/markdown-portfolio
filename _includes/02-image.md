@@ -1,1 +1,1 @@
-[Youtube](https://www.youtube.com/watch?v=SLB_c_ayRMo)
+You can check out my repository through following link [github](https://github.com/spriyadarshini-bex/markdown-portfolio/edit/add-images-links/_includes/02-image.md?pr=%2Fspriyadarshini-bex%2Fmarkdown-portfolio%2Fpull%2F3)
